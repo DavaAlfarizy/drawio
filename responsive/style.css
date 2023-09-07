@@ -1,0 +1,44 @@
+*{
+    background-color: grey;
+}
+.tes{
+    color: aqua;
+}
+#bang{
+    color: seashell;
+}
+.container{
+font-size: 23px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+max-width: 100%;
+}
+.baris{
+float: left;
+max-width: 100%;
+}
+.baris{
+    box-sizing: border-box;
+            padding: 20px;
+}
+.kolom{
+    width: 250px;
+    height: 120px;
+    background-color: aquamarine;
+    margin: 3px;
+    box-sizing: border-box;
+            padding: 10px;
+}
+.kolom1,.kolom2, .kolom3, .kolom4{
+    float: left;
+}
+.kolom4{
+    width: 100%;
+    background-color: aqua;
+}
+.kolom1,.kolom2.kolom3.kolom4{
+    display: flex;
+}
+
+img{
+    width: 230px;
+}
